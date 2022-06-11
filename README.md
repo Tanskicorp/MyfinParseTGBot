@@ -24,5 +24,6 @@ The bot is based on the aiogram library, uses a sql database to store user subsc
 3. The bot also has a menu called by the /menu command with the buttons "Subscriptions" - 3.1, "Unsubscribe" - 3.2, "Exit" - 3.3
 
 3.1 Sends a list of user's subscriptions
+
 3.2 After clicking under, it will display a list of subscriptions. Next, the user from the list must enter the currency from which he wants to unsubscribe, separated by a space, or enter / cancel if he changes his mind
 3.3 Delete message with buttons
