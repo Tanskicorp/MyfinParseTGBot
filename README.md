@@ -11,6 +11,7 @@
 3.1 Высылает список подписок пользователя
 
 3.2 После нажатия под выдаст список подписок. Далее пользователь из списка должен ввести через пробел валюту от которой хочет отписаться, или ввести /cancel если он передумал
+
 3.3 Удаляет сообщение с кнопками
 ***
 # MyfinParseTGBot
@@ -26,4 +27,5 @@ The bot is based on the aiogram library, uses a sql database to store user subsc
 3.1 Sends a list of user's subscriptions
 
 3.2 After clicking under, it will display a list of subscriptions. Next, the user from the list must enter the currency from which he wants to unsubscribe, separated by a space, or enter / cancel if he changes his mind
+
 3.3 Delete message with buttons
