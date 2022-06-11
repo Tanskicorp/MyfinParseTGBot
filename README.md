@@ -19,7 +19,6 @@ The bot is based on the aiogram library, uses a sql database to store user subsc
 1. The bot sends the average cryptocurrency rate after using the /crypt link* command
 2. The bot offers to send information separately for each exchange, as well as subscribe to the currency
 (when subscribing, the bot will send every 5 minutes (can be changed if desired) the average exchange rate)
-4. The bot also has a menu called by the /menu command with the buttons "Subscriptions" - 4.1, "Unsubscribe" - 4.2, "Exit" - 4.3
 4.1 Sends a list of user's subscriptions
 4.2 After clicking under, it will display a list of subscriptions. Next, the user from the list must enter the currency from which he wants to unsubscribe, separated by a space, or enter / cancel if he changes his mind
 4.3 Delete message with buttons
